@@ -1,1 +1,9 @@
-
+{
+  "name": "数学库",
+  "version": "1.0.0",
+  "description": "提供常用数学计算函数",
+  "author": "MiniLang社区",
+  "license": "MIT",
+  "main": "main.kalop",
+  "dependencies": {}
+}
